@@ -1,0 +1,12 @@
+nsepy
+yfinance
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+streamlit
+requests
+beautifulsoup4
+plotly
+ta
